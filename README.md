@@ -1,2 +1,2 @@
-# hammerai
-Holds releases for HammerAI.com
+# HammerAI.com
+This repo holds releases for HammerAI.com.
